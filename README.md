@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @mightymax88 (Maximiliano Filipuzzi)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mightymax88&theme=onedark)](https://github.com/mightymax88/github-profile-trophy)
+
 - 👀 I’m interested in robotics, 3D printing and medical equipment innovation
 - 🌱 I’m currently learning web design (full stack - HTML, CSS, JS, React) and Python
 - 💞️ I’m looking to collaborate on ML Projects
