@@ -2,7 +2,7 @@
 I'm a biomedical engineer with a MSc. in Medical Physics and an MBA; and a ML enthusiast.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mightymax88&theme=onedark&no-frame=true)](https://github.com/mightymax88/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mightymax88&theme=onedark&no-frame=true&row=1)](https://github.com/mightymax88/github-profile-trophy)
 
 - 👀 I’m also interested in robotics, 3D printing and medical equipment innovation
 - 🌱 I’m currently learning web design (full stack - HTML, CSS, JS, React), Python and Blockchain
