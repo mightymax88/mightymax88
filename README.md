@@ -1,5 +1,5 @@
 👋 Hi, I’m @mightymax88 (Maximiliano Filipuzzi), from BsAs, Argentina!
-I'm a biomedical engineer with a MSc. in Medical Physics and an MBA; and a ML enthusiast.
+I'm a ML enthusiast and biomedical engineer with a MSc. in Medical Physics and an MBA.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mightymax88&theme=onedark&no-frame=true&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/mightymax88/github-profile-trophy)
